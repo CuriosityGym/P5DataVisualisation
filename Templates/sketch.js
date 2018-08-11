@@ -1,11 +1,10 @@
-void setup()
+function setup()
 {
-	
 	
 }
 
-void draw()
+function draw()
 {
 	
-	
+
 }
